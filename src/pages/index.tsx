@@ -9,10 +9,10 @@ function Home() {
   return (
     <>
       <Head>
-        <title>8th Pay Commission Calculator - Home</title>
+        <title>MathGage - Home</title>
         <meta
           name="description"
-          content="Calculate your salary under the 8th Pay Commission. User-friendly calculator for government employees to estimate their revised pay and allowances."
+          content="Precision Tools for Every Calculation. Calculate your salary under the 8th Pay Commission. User-friendly calculator for government employees to estimate their revised pay and allowances."
         />
       </Head>
 
