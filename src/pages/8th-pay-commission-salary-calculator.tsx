@@ -77,6 +77,10 @@ function EightPaySalaryCalculator() {
           name="keywords"
           content="8th pay commission, salary calculator, government salary, pay commission calculator"
         />
+        <link
+          rel="canonical"
+          href="https://mathgage.com/8th-pay-commission-salary-calculator"
+        />
       </Head>
       <Box className="app-container">
         <Container maxWidth="lg">

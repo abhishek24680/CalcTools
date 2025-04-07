@@ -11,6 +11,7 @@ function Privacy() {
           name="description"
           content="Privacy policy for the MathGage Calculator Application. Learn how we handle and protect your information."
         />
+        <link rel="canonical" href="https://mathgage.com/privacy" />
       </Head>
 
       <Container maxWidth="lg">

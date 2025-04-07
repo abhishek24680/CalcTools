@@ -14,6 +14,7 @@ function Home() {
           name="description"
           content="Precision Tools for Every Calculation. Calculate your salary under the 8th Pay Commission. User-friendly calculator for government employees to estimate their revised pay and allowances."
         />
+        <link rel="canonical" href="https://mathgage.com" />
       </Head>
 
       {/* MathGage: Your Ultimate Calculation Companion */}

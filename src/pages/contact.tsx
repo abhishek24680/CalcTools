@@ -19,6 +19,7 @@ function Contact() {
           name="description"
           content="Contact us for any questions about the MathGage Calculator Tools. We're here to help!"
         />
+        <link rel="canonical" href="https://mathgage.com/contact" />
       </Head>
 
       <Container maxWidth="lg">
