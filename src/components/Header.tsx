@@ -65,6 +65,12 @@ function Header() {
               >
                 8th Pay Calculator
               </NavLink>
+              <NavLink
+                href="/7th-pay-commission-salary-calculator"
+                icon={CalculatorIcon}
+              >
+                7th Pay Calculator
+              </NavLink>
             </Stack>
           </Stack>
         </Container>
