@@ -285,6 +285,14 @@ function SeventhPayCalculator() {
           name="description"
           content="Calculate your salary under the 7th Pay Commission recommendations."
         />
+        <meta
+          name="keywords"
+          content="tth pay commission, salary calculator, government salary, pay commission calculator"
+        />
+        <link
+          rel="canonical"
+          href="https://mathgage.com/7th-pay-commission-salary-calculator"
+        />
       </Head>
 
       <Container maxWidth="lg">
