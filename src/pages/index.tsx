@@ -123,7 +123,7 @@ function Home() {
                 </Button>
                 <Button
                   component={Link}
-                  href="/7th-pay-commission-salary-calculatorr"
+                  href="/7th-pay-commission-salary-calculator"
                   variant="outlined"
                   size="large"
                   sx={{
